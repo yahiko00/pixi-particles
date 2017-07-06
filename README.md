@@ -4,6 +4,15 @@
 
 A particle system library for the [PixiJS](https://github.com/pixijs/pixi.js) library. Also, we created an [interactive particle editor](http://pixijs.github.io/pixi-particles-editor/) to design and preview custom particle emitters which utilitze PixiParticles.
 
+
+## Fork notes
+
+This fork allows to integrate seamlessly this module to a project using Browserify.
+I simply changed the `main` item in _package.json_ in order to reference `src/index.js`.
+
+Yahiko
+
+
 ## Sample Usage
 
 Please see the examples for various pre-made particle configurations.

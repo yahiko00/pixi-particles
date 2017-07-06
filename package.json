@@ -1,7 +1,7 @@
 {
   "name": "pixi-particles",
   "version": "2.1.5",
-  "main": "dist/pixi-particles.min.js",
+  "main": "src/index.js",
   "typings": "index.d.ts",
   "description": "Particle emitter for Pixi.js",
   "author": "Andrew Start <start.andrew@gmail.com>",
